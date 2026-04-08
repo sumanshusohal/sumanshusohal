@@ -8,9 +8,7 @@
  |____/ \___/|_|  |_/_/   \_\_| \_|____/|_| |_|\___/  |____/ \___/|_| |_/_/   \_\_____|
 ```
 
-```
-$ whoami
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=0&pause=1000000&color=00FF41&center=true&vCenter=true&repeat=false&width=900&height=35&lines=%24+whoami" alt="whoami" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=35&lines=Cybersecurity+Engineer+%7C+PhD+Researcher+%7C+Detection+Engineer" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=25&lines=%5B+SYSTEM+ONLINE+%5D+---+%5B+THREAT+HUNTING+ACTIVE+%5D+---+%5B+ALL+SECTORS+MONITORED+%5D" alt="Status" />
