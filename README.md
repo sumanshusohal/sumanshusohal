@@ -68,7 +68,7 @@ class CyberSecurityEngineer:
 ### `// ENDPOINT & NETWORK`
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=FF0000)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logoColor=7B2D8E)
-![Trellix HX](https://img.shields.io/badge/Trellix_HX_(EDR)-000000?style=for-the-badge&logoColor=FF0000)
+![Trellix HX](https://img.shields.io/badge/Trellix_HX-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix NX](https://img.shields.io/badge/Trellix_NX_(IPS)-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix PX](https://img.shields.io/badge/Trellix_PX-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix NDR](https://img.shields.io/badge/Trellix_NDR-000000?style=for-the-badge&logoColor=FF0000)
