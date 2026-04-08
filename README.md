@@ -8,7 +8,7 @@
  |____/ \___/|_|  |_/_/   \_\_| \_|____/|_| |_|\___/  |____/ \___/|_| |_/_/   \_\_____|
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%24+whoami;Cybersecurity+Engineer+%7C+PhD+Researcher+%7C+Detection+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=%24+whoami;Cybersecurity+Engineer+%7C+PhD+Researcher+%7C+Detection+Engineer" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=900&height=30&lines=%5B+SYSTEM+ONLINE+%5D+---+%5B+THREAT+HUNTING+ACTIVE+%5D+---+%5B+ALL+SECTORS+MONITORED+%5D" alt="Status" />
 
@@ -66,9 +66,9 @@ class CyberSecurityEngineer:
 ![Siemplify](https://img.shields.io/badge/SOAR-000000?style=for-the-badge&logoColor=00FF41)
 
 ### `// ENDPOINT & NETWORK`
+![Trellix HX](https://img.shields.io/badge/Trellix_HX_(EDR)-000000?style=for-the-badge&logoColor=FF0000)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=FF0000)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logoColor=7B2D8E)
-![Trellix HX](https://img.shields.io/badge/Trellix_HX-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix NX](https://img.shields.io/badge/Trellix_NX_(IPS)-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix PX](https://img.shields.io/badge/Trellix_PX-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix NDR](https://img.shields.io/badge/Trellix_NDR-000000?style=for-the-badge&logoColor=FF0000)
