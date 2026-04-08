@@ -58,20 +58,20 @@ class CyberSecurityEngineer:
 <div align="center">
 
 ### `// SIEM & SOAR`
+![Helix](https://img.shields.io/badge/Trellix_Helix-000000?style=for-the-badge&logo=trellix&logoColor=00FF41)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF41)
 ![QRadar](https://img.shields.io/badge/QRadar-000000?style=for-the-badge&logo=ibm&logoColor=00FF41)
-![Helix](https://img.shields.io/badge/Trellix_Helix-000000?style=for-the-badge&logo=trellix&logoColor=00FF41)
 ![ArcSight](https://img.shields.io/badge/ArcSight-000000?style=for-the-badge&logo=microfocus&logoColor=00FF41)
 ![LogRhythm](https://img.shields.io/badge/LogRhythm-000000?style=for-the-badge&logoColor=00FF41)
 ![Siemplify](https://img.shields.io/badge/SOAR-000000?style=for-the-badge&logoColor=00FF41)
 
 ### `// ENDPOINT & NETWORK`
 ![Trellix HX](https://img.shields.io/badge/Trellix_HX_(EDR)-000000?style=for-the-badge&logoColor=FF0000)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=FF0000)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logoColor=7B2D8E)
 ![Trellix NX](https://img.shields.io/badge/Trellix_NX_(IPS)-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix PX](https://img.shields.io/badge/Trellix_PX-000000?style=for-the-badge&logoColor=FF0000)
 ![Trellix NDR](https://img.shields.io/badge/Trellix_NDR-000000?style=for-the-badge&logoColor=FF0000)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=FF0000)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logoColor=7B2D8E)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 
 ### `// LANGUAGES & SCRIPTING`
