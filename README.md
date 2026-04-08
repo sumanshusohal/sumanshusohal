@@ -68,8 +68,10 @@ class CyberSecurityEngineer:
 ### `// ENDPOINT & NETWORK`
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-000000?style=for-the-badge&logo=crowdstrike&logoColor=FF0000)
 ![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=for-the-badge&logoColor=7B2D8E)
-![Trellix HX](https://img.shields.io/badge/Trellix_EDR-000000?style=for-the-badge&logoColor=FF0000)
-![Trellix NX](https://img.shields.io/badge/Trellix_IPS-000000?style=for-the-badge&logoColor=FF0000)
+![Trellix HX](https://img.shields.io/badge/Trellix_HX_(EDR)-000000?style=for-the-badge&logoColor=FF0000)
+![Trellix NX](https://img.shields.io/badge/Trellix_NX_(IPS)-000000?style=for-the-badge&logoColor=FF0000)
+![Trellix PX](https://img.shields.io/badge/Trellix_PX-000000?style=for-the-badge&logoColor=FF0000)
+![Trellix NDR](https://img.shields.io/badge/Trellix_NDR-000000?style=for-the-badge&logoColor=FF0000)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 
 ### `// LANGUAGES & SCRIPTING`
@@ -86,6 +88,7 @@ class CyberSecurityEngineer:
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 ![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 ![Palo Alto](https://img.shields.io/badge/Palo_Alto-000000?style=for-the-badge&logoColor=FF0000)
 
 ### `// FORENSICS & REVERSING`
