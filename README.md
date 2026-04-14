@@ -1,21 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=200&section=header&text=SUMANSHU%20SOHAL&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity+Engineer+%7C+PhD+Researcher+%7C+Threat+Hunter&descAlignY=55&descColor=00FF41&fontAlign=50" width="100%" />
+
 <div align="center">
 
-```
-  ____  _   _ __  __    _    _   _ ____  _   _ _   _
- / ___|| | | |  \/  |  / \  | \ | / ___|| | | | | | |
- \___ \| | | | |\/| | / _ \ |  \| \___ \| |_| | | | |
-  ___) | |_| | |  | |/ ___ \| |\  |___) |  _  | |_| |
- |____/ \___/|_|  |_/_/   \_\_| \_|____/|_| |_|\___/
-           ____   ___  _   _    _    _
-          / ___| / _ \| | | |  / \  | |
-          \___ \| | | | |_| | / _ \ | |
-           ___) | |_| |  _  |/ ___ \| |___
-          |____/ \___/|_| |_/_/   \_\_____|
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=999999&color=00FF41&center=true&vCenter=true&repeat=false&width=200&height=30&lines=%24+whoami" alt="whoami" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=30&lines=Cybersecurity+Engineer+%7C+PhD+Researcher+%7C+Detection+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%3E_+CYBER+ENGINEER;%3E_+PHD+RESEARCHER;%3E_+DETECTION+ENGINEER;%3E_+THREAT+HUNTER" alt="Typing SVG" />
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=3000&color=00FF41&center=true&vCenter=true&repeat=true&width=750&height=25&lines=%5B+SYSTEM+ONLINE+%5D+---+%5B+THREAT+HUNTING+ACTIVE+%5D+---+%5B+ALL+SECTORS+MONITORED+%5D" alt="Status" />
 
